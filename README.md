@@ -126,6 +126,8 @@ Finally you can test the PS3 controller is working using the device name from th
 
 The numbers shown should change as you move the joysticks around, if so everything is working properly.
 
+Create a map file with moonlight
 
+    $ moonlight map -input /dev/input/event0 custom.map
 
-
+    
