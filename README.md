@@ -3,6 +3,14 @@
 The ultimate gaming console. 
 Play steam and emulators games on your TV
 
+## Table of Contents
+* [Installation](#installation)
+  * [Emulators configuration]()
+    * [Dolphin](doc/dolphin/dolphin.md)
+  * [Controllers](doc/controllers.md)
+    * [dualshock3](doc/controllers.md#dualshock-3)
+* [Usage](#usage)
+
 
 # Requirements
 
