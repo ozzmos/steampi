@@ -59,6 +59,6 @@ For list of commands
 
     $ moonlight help
 
-To lauch moonlight with PS3 controller mapping, 1080p resolution and local audio
+To lauch moonlight with PS3 controller mapping and local audio
 
     $ moonlight -app Steam -mapping dualshock3 -localaudio stream
